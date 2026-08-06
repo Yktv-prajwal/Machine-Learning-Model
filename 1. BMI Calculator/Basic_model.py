@@ -189,5 +189,3 @@ else:
     st.info("Enter your information from the sidebar and click **Calculate BMI**.")
 
 st.divider()
-
-st.caption("Developed using Python • Streamlit")
